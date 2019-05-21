@@ -1,0 +1,10 @@
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\bin\Debug\netcoreapp2.2\Pa159-Ej1.deps.json
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\bin\Debug\netcoreapp2.2\Pa159-Ej1.runtimeconfig.json
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\bin\Debug\netcoreapp2.2\Pa159-Ej1.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\bin\Debug\netcoreapp2.2\Pa159-Ej1.dll
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\bin\Debug\netcoreapp2.2\Pa159-Ej1.pdb
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\obj\Debug\netcoreapp2.2\Pa159-Ej1.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\obj\Debug\netcoreapp2.2\Pa159-Ej1.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\obj\Debug\netcoreapp2.2\Pa159-Ej1.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\obj\Debug\netcoreapp2.2\Pa159-Ej1.dll
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pa159-Ej1\obj\Debug\netcoreapp2.2\Pa159-Ej1.pdb
