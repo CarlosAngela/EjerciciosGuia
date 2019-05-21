@@ -1,0 +1,11 @@
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\bin\Debug\netcoreapp2.2\Pagina74.deps.json
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\bin\Debug\netcoreapp2.2\Pagina74.runtimeconfig.json
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\bin\Debug\netcoreapp2.2\Pagina74.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\bin\Debug\netcoreapp2.2\Pagina74.dll
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\bin\Debug\netcoreapp2.2\Pagina74.pdb
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\obj\Debug\netcoreapp2.2\Pagina74.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\obj\Debug\netcoreapp2.2\Pagina74.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\obj\Debug\netcoreapp2.2\Pagina74.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\obj\Debug\netcoreapp2.2\Pagina74.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\obj\Debug\netcoreapp2.2\Pagina74.dll
+C:\Users\Toshiba\Desktop\ProyectoCSharp\Pagina74\Pagina74\obj\Debug\netcoreapp2.2\Pagina74.pdb
